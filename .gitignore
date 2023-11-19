@@ -8,7 +8,7 @@ FirstProject/.gradle
 /.externalNativeBuild
 
 # Gradle
-/build/
+FirstProject/app/build/
 /captures/
 
 # Default ignored files
