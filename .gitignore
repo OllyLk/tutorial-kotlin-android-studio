@@ -2,8 +2,8 @@
 
 # Android Studio
 *.iml
-/.idea
-/.gradle
+FirstProject/.idea
+FirstProject/.gradle
 /local.properties
 /.externalNativeBuild
 
