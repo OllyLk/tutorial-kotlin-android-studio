@@ -1,0 +1,12 @@
+# .gitignore for Android Studio
+
+# Android Studio
+*.iml
+/.idea
+/.gradle
+/local.properties
+/.externalNativeBuild
+
+# Gradle
+/build/
+/captures/
