@@ -4,11 +4,14 @@
 *.iml
 FirstProject/.idea
 FirstProject/.gradle
+FirstKotlinProgram/.idea
+FirstKotlinProgram/.gradle
 /local.properties
 /.externalNativeBuild
 
 # Gradle
 FirstProject/app/build/
+FirstKotlinProgram/app/build/
 /captures/
 
 # Default ignored files
