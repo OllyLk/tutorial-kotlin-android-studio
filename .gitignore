@@ -8,7 +8,7 @@ FirstKotlinProgram/.idea
 FirstKotlinProgram/.gradle
 /local.properties
 /.externalNativeBuild
-#
+
 # Gradle
 FirstProject/app/build/
 FirstKotlinProgram/app/build/
